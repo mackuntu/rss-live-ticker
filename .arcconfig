@@ -1,0 +1,4 @@
+{
+    "project_id" : "rss-live-ticker",
+    "conduit_uri" : "http://phabricator.local"
+}
